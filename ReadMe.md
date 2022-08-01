@@ -1,19 +1,26 @@
-# 💫About Me :
+## 💫About me:
+
 Designer, front-end dev and entrepreneur using my skills for good.
 
-Currently working on:
+## Currently working on:
 
-EdenHub
-NPC, working on systems to strengthen our food security.
+### EdenHub
+
+Non-profit working on systems to strengthen our food security.
+
 https://edenhub.org
 https://edenhub.co.za
 
-JammeryHQ
-Building development tools for the jamstack.
+### JammeryHQ
+
+Development tools for the jamstack.
+
 https://jammeryhq.com
 
-SavvyGarden
+### SavvyGarden
+
 Permaculture inspired tools for the savvy gardener.
+
 https://savvygarden.app
 
 ## 🌐Socials
