@@ -2,20 +2,6 @@
 
 Designer, front-end dev and entrepreneur using my skills for good.
 
-## Currently working on:
-
-### JammeryHQ
-
-Development tools for the jamstack.
-
-https://jammeryhq.com
-
-### SavvyGarden
-
-Permaculture inspired tools for the savvy gardener.
-
-https://savvygarden.app
-
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smokeyfro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chrisrault) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/smokeyfro) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smokeyfro) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/smokeyfro) 
 
